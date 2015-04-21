@@ -1,0 +1,18 @@
+{
+  "name": "emptyjs",
+  "version": "1.0.0",
+  "homepage": "https://github.com/matthewkremer/emptyjs",
+  "authors": [
+    "Matt Kremer <matt@mattkremer.com>"
+  ],
+  "description": "Empty.js",
+  "main": "empty.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
