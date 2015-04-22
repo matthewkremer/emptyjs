@@ -1,0 +1,32 @@
+{
+  "name": "emptyjs",
+  "version": "1.0.0",
+  "description": "A JavaScript Framework that stays out of your way.",
+  "main": "empty.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matthewkremer/emptyjs.git"
+  },
+  "keywords": [
+    "empty",
+    "nothing",
+    "nada",
+    "zip",
+    "zilch",
+    "framework",
+    "mvc",
+    "mvvm",
+    "mvstar",
+    "mmmmmmm",
+    "js",
+    "javascript",
+    "node",
+    "awesome"
+  ],
+  "author": "Matt Kremer <matt@mattkremer.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matthewkremer/emptyjs/issues"
+  },
+  "homepage": "https://github.com/matthewkremer/emptyjs"
+}
