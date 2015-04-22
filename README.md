@@ -1,4 +1,4 @@
-![](https://github.com/bennybtl/emptyjs/blob/master/img/emptyjs-logo.png)
+![](https://github.com/bennybtl/emptyjs/blob/master/img/emptyjs-logo-horizontal.png)
 # emptyjs
 
 A JavaScript Framework that stays out of your way.
